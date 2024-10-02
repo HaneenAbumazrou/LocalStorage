@@ -1,0 +1,45 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #222;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #444;
+}
+th {
+    background-color: #333;
+}
+input {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #444;
+    border-radius: 5px;
+}
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.add-btn {
+    background-color: #28a745;
+    color: #fff;
+}
+.delete-btn {
+    background-color: red;
+    color: #fff;
+}
+.edit-btn {
+    background-color: yellow;
+    color: #000;
+}
